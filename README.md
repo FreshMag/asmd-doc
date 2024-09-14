@@ -1,2 +1,2 @@
-# asmd23-24.github.io
+# ASMD doc
 Informational website for my ASMD tasks.
